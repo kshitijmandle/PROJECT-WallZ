@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="#6FA1A1A1">
+
+        <ImageView
+            android:id="@+id/HomeButon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:adjustViewBounds="true"
+            android:layout_alignRight="@+id/SearchButon"
+            android:layout_marginRight="70dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/home" />
+
+        <ImageView
+            android:id="@+id/SearchButon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="7dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:layout_alignLeft="@+id/centimg"
+            android:src="@drawable/magnifyingglass" />
+
+        <ImageView
+            android:id="@+id/AboutButon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="6dp"
+            android:adjustViewBounds="true"
+            android:layout_marginLeft="70dp"
+            android:scaleType="centerCrop"
+            android:layout_alignLeft="@+id/FavoritesButon"
+            android:src="@drawable/about" />
+
+        <ImageView
+            android:id="@+id/FavoritesButon"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignRight="@+id/centimg"
+            android:layout_marginTop="10dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/heart" />
+
+        <ImageView
+            android:id="@+id/centimg"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="centerCrop" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ReplacebleLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#6FA1A1A1"
+        android:layout_marginBottom="40dp"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

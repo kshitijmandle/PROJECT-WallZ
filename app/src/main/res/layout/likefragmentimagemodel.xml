@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    >
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_margin="2dp"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_launcher_background"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:padding="2dp"
+            android:background="#A42B2A2A"
+            android:id="@+id/imageinfragimagemdel"
+            />
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:id="@+id/textfragimagemodel"
+            android:textSize="15dp"
+            android:text="Software Engineer at Amazon"
+            android:background="#6A151515"
+            android:layout_margin="5dp"
+            android:maxLines="1"
+            android:textColor="@color/white"
+            />
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

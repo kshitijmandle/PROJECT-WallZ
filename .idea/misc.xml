@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/activity_cliked.xml" value="0.25" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/favfragtoolbar.xml" value="0.153125" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/fragment_about_frag_ments.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/fragment_favourites_frag_ment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/fragment_home_frag_ment.xml" value="0.22" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/fragment_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/hometoolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/imagemodel.xml" value="0.25" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/likefragmentimagemodel.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/progressbar.xml" value="0.22" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/search_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/setwallpapertoolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kshitij/AndroidStudioProjects/PROJECTWallZ/app/src/main/res/layout/shreemareffectmodel.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
